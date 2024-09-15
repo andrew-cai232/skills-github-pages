@@ -7,9 +7,10 @@ I created this webpage to create "a site or blog from" my "GitHub repositories w
 
 On the evening of September 14th, 2024, at San Francisco State University in West Grove Commons, I wanted to try to evaluate GitHub Pages, so I created the version of the Snake game program directly below this paragraph. The version of the Snake game program directly below this paragraph is from the first three pages in the "Putting It All Together" section of Chapter 17 in Part III of the book, _JavaScript for Kids: A Playful Introduction to Programming_. The author of the book is Nick Morgan. Additionally, the illustrator of the book is Miran Lipovača. In addition, the technical reviewer of this book is Angus Croll. Also, William Pollock is the publisher of this book. Additionally, the production editor of this book is Riley Hoffman. In addition, the developmental editors of this book are William Pollock and Seph Kramer. Also, the copyeditor of this book is Rachel Monaghan. Additionally, Tina Salameh created the cover illustration of this book. In addition, the compositor of this book is Riley Hoffman. Also, the proofreader of this book is Paula L. Fleming. Additionally, No Starch Press published this book. In addition, the publication date of this book is December 14, 2014.
 
- <canvas id="canvas" width="500" height="500"></canvas>
-    <script src="https://code.jquery.com/jquery-2.1.0.js"></script>
-    <script>
+<canvas id="canvas" width="500" height="500"></canvas>
+<script src="https://code.jquery.com/jquery-2.1.0.js"></script>
+
+<script>
       //	Set	up	canvas
       var canvas = document.getElementById("canvas");
       var ctx = canvas.getContext("2d");
@@ -200,6 +201,5 @@ On the evening of September 14th, 2024, at San Francisco State University in Wes
         if (newDirection !== undefined) {
           snake.setDirection(newDirection);
         }
-      });
-
-    </script>
+      });  
+</script>
