@@ -203,3 +203,12 @@ On the evening of September 14th, 2024, at San Francisco State University in Wes
         }
       });  
 </script>
+
+![Image of Octocat](https://octodex.github.com/images/original.png)
+
+``` javascript
+var myVar = "Hello, world!";
+```
+- [ ] Test One
+- [ ] Test Two
+- [ ] Test Three
