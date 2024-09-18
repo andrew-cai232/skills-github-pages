@@ -10,26 +10,28 @@ title: Welcome to Andrew Cai's GitHub blog!
 
 <p style="margin-bottom:2em;white-space:pre"> </p>
 
-This webpage was created at San Francisco State University in West Grove Commons.
+Current Task List:
+- [ ] Earn a Bachelor's Degree in Computer Science from San Francisco State University in the Spring 2028 semester
+<p style="margin-bottom:1em;white-space:pre"> </p>
+- [ ] Earn a useful job that utilizes my understanding of computer science
+<p style="margin-bottom:1em;white-space:pre"> </p>
+- [ ] Retire comfortably
 
-Also, this webpage was created on the afternoon of September 14th, 2024.
-
-I created this webpage to create "a site or blog from" my "GitHub repositories with GitHub Pages".
-
-I created this webpage by using the webpage at the URL, "[https://github.com/skills/github-pages](https://github.com/skills/github-pages)".
+<p style="margin-bottom:2em;white-space:pre"> </p>
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d25245.826935445275!2d-122.48187641691896!3d37.72605332589471!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sus!4v1726654775120!5m2!1sen!2sus" width="600" height="450" style="border:3px solid brown;vertical-align:middle;display:block;float:none;left:0;right:0;margin:auto" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-Current Task List:
-- [ ] Earn a Bachelor's Degree in Computer Science from San Francisco State University in the Spring 2028 semester
-- [ ] Earn a useful job that uses a moderate amount of ideas from computer science overall
-- [ ] Retire successfully
+<p style="margin-bottom:2em;white-space:pre"> </p>
+
+On the afternoon of September 14th, 2024, this webpage was created at San Francisco State University in West Grove Commons by using the webpage at the URL, "[https://github.com/skills/github-pages](https://github.com/skills/github-pages)".
 
 <p style="margin-bottom:2em;white-space:pre"> </p>
 
 <hr>
 
-Andrew Cai's version of a Snake game program:
+<p style="margin-bottom:1em;white-space:pre"> </p>
+
+<p style="vertical-align:middle;display:block;float:none;left:0;right:0;margin:auto">Andrew Cai's Snake game program:</p>
 
 <p style="margin-bottom:2em;white-space:pre"> </p>
 
@@ -231,6 +233,10 @@ Andrew Cai's version of a Snake game program:
 
 <p style="margin-bottom:2em;white-space:pre"> </p>
 
+<details>
+
+<summary>Details of the program shown above</summary>
+
 On the evening of September 14th, 2024, at San Francisco State University in West Grove Commons, I wanted to try to evaluate GitHub Pages, so I created the version of a Snake game program directly above this paragraph. The version of a Snake game program directly above this paragraph is from the first three pages in the "Putting It All Together" section of Chapter 17 in Part III of the book, _JavaScript for Kids: A Playful Introduction to Programming_.
 
 The author of the book is Nick Morgan. Additionally, the illustrator of the book is Miran Lipovača. In addition, the technical reviewer of this book is Angus Croll.
@@ -241,15 +247,25 @@ Also, the copyeditor of this book is Rachel Monaghan. Additionally, Tina Salameh
 
 Also, the proofreader of this book is Paula L. Fleming. Additionally, No Starch Press published this book. In addition, the publication date of this book is December 14, 2014.
 
+To control the snake's movement, press the W, A, S, and D keys on a computer keyboard:
+- The W key: Moves the snake upward
+- The A key: Moves the snake to the left
+- The S key: Moves the snake downward
+- The D key: Moves the snake to the right
+
 JavaScript Code Sample:
 ``` javascript
 console.log("Hello, world!");
 ```
 
-<p style="margin-bottom:2em;white-space:pre"> </p>
+</details>
+
+<p style="margin-bottom:2em;white-space:pre"> </p> 
 
 <hr>
 
 <p style="margin-bottom:2em;white-space:pre"> </p>
 
 <iframe src="https://www.youtube.com/embed/3KtWfp0UopM" width="350" height="350" title="YouTube video titled 'Google — 25 Years in Search: The Most Searched'" style="border:3px solid brown;vertical-align:middle;display:block;float:none;left:0;right:0;margin:auto"></iframe>
+
+<p style="margin-bottom:2em;white-space:pre"> </p>
