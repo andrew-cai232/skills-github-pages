@@ -231,33 +231,8 @@ Current Task List:
 - [ ] Earn a useful job that uses a moderate amount of ideas from computer science overall
 - [ ] Retire successfully
 
-<iframe src="https://www.youtube.com/watch?v=3KtWfp0UopM" width="350" height="350" title="YouTube video titled 'Google — 25 Years in Search: The Most Searched'"></iframe>
+<iframe src="https://www.youtube.com/embed/3KtWfp0UopM" width="350" height="350" title="YouTube video titled 'Google — 25 Years in Search: The Most Searched'"></iframe>
 
 Map Test:
 
-```geojson
-      {
-        "type": "FeatureCollection",
-        "features": [
-          {
-            "type": "Feature",
-            "id": 1,
-            "properties": {
-              "ID": 0
-            },
-            "geometry": {
-              "type": "Polygon",
-              "coordinates": [
-                [
-                    [-90,35],
-                    [-90,30],
-                    [-85,30],
-                    [-85,35],
-                    [-90,35]
-                ]
-              ]
-            }
-          }
-        ]
-      }
-```
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d25245.826935445275!2d-122.48187641691896!3d37.72605332589471!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sus!4v1726654775120!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
