@@ -1,12 +1,17 @@
 ---
 title: Welcome to Andrew Cai's GitHub blog!
 ---
+
+<!-- Reminder for editing this webpage: please make my webpages read-only to prevent hacker attacks, because the user is likely to already have access to good social media platforms, and for this webpage, I do not want to use more third-party online platforms so far -->
+
 Image Test:
 
-<img src="https://avatars.githubusercontent.com/u/181604248?s=400&u=88a726ffaab91d761b32cb516b31b18dad0c521c&v=4" alt="Image of Andrew Cai" width="350" height="350" style="border:3px solid brown;vertical-align:middle;width:350px;margin:auto">
+<img src="https://avatars.githubusercontent.com/u/181604248?s=400&u=88a726ffaab91d761b32cb516b31b18dad0c521c&v=4" alt="Image of Andrew Cai" width="350" height="350" style="border:3px solid brown;vertical-align:middle;display:block;float:none;left:0;right:0;margin:auto">
 
 This webpage was created at San Francisco State University in West Grove Commons. Also, this webpage was created on the afternoon of September 14th, 2024.
 I created this webpage to create "a site or blog from" my "GitHub repositories with GitHub Pages". I created this webpage by using the webpage at the URL, "[https://skills.github.com](https://github.com/skills/github-pages)".
+
+<hr>
 
 Andrew Cai's version of a Snake game program:
 
@@ -220,44 +225,49 @@ JavaScript Code Sample:
 ``` javascript
 console.log("Hello, world!");
 ```
+
+<hr>
+
 Current Task List:
 - [ ] Earn a Bachelor's Degree in Computer Science from San Francisco State University in the Spring 2028 semester
 - [ ] Earn a useful job that uses a moderate amount of ideas from computer science overall
 - [ ] Retire successfully
 
+<iframe src="https://github.com" width="350" height="350" title="GitHub website"></iframe>
+
 Map Test:
 
 ```topojson
-{
-      "type": "Topology",
-      "transform": {
-            "scale": [0.0005000500050005, 0.00010001000100010001],
-            "translate": [100, 0]
-      },
-      "objects": {
-            "example": {
-                  "type": "GeometryCollection",
-                  "geometries": [
-                  {
-                        "type": "Point",
-                        "properties": {"prop0": "value0"},
-                        "coordinates": [4000, 5000]
-                  },
-                  {
-                        "type": "LineString",
-                        "properties": {"prop0": "value0", "prop1": 0},
-                        "arcs": [0]
-                  },
-                  {
-                        "type": "Polygon",
-                        "properties": {"prop0": "value0",
-                              "prop1": {"this": "that"}
+      {
+            "type": "Topology",
+            "transform": {
+                  "scale": [0.0005000500050005, 0.00010001000100010001],
+                  "translate": [100, 0]
+            },
+            "objects": {
+                  "example": {
+                        "type": "GeometryCollection",
+                        "geometries": [
+                        {
+                              "type": "Point",
+                              "properties": {"prop0": "value0"},
+                              "coordinates": [4000, 5000]
                         },
-                        "arcs": [[1]]
+                        {
+                              "type": "LineString",
+                              "properties": {"prop0": "value0", "prop1": 0},
+                              "arcs": [0]
+                        },
+                        {
+                              "type": "Polygon",
+                              "properties": {"prop0": "value0",
+                                    "prop1": {"this": "that"}
+                              },
+                              "arcs": [[1]]
+                        }
+                        ]
                   }
-                  ]
-            }
-      },
-      "arcs": [[[4000, 0], [1999, 9999], [2000, -9999], [2000, 9999]],[[0, 0], [0, 9999], [2000, 0], [0, -9999], [-2000, 0]]]
-}
+            },
+            "arcs": [[[4000, 0], [1999, 9999], [2000, -9999], [2000, 9999]],[[0, 0], [0, 9999], [2000, 0], [0, -9999], [-2000, 0]]]
+      }
 ```
