@@ -204,11 +204,30 @@ On the evening of September 14th, 2024, at San Francisco State University in Wes
       });  
 </script>
 
-![Image of Octocat](https://octodex.github.com/images/original.png)
+<img src="https://avatars.githubusercontent.com/u/181604248?s=400&u=88a726ffaab91d761b32cb516b31b18dad0c521c&v=4" alt="Image of Andrew Cai" width="350" height="350" style="border:3px solid black">
 
 ``` javascript
-var myVar = "Hello, world!";
+console.log("Hello, world!");
 ```
+Task List Test:
 - [ ] Test One
 - [ ] Test Two
 - [ ] Test Three
+
+TopoJSON Map Test:
+```topojson
+{
+  "type": "Topology",
+  "transform": {
+    "scale": [0, 0],
+    "translate": [0, 0]
+  },
+  "objects": {
+    "example": {
+      "type": "GeometryCollection",
+      "geometries": []
+    }
+  },
+  "arcs": []
+}
+```
