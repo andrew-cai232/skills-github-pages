@@ -2,18 +2,38 @@
 title: Welcome to Andrew Cai's GitHub blog!
 ---
 
+<p style="margin-bottom:2em;white-space:pre"> </p>
+
 <!-- Reminder for editing this webpage: please make my webpages read-only to prevent hacker attacks, because the user is likely to already have access to good social media platforms, and for this webpage, I do not want to use more third-party online platforms so far -->
 
 <img src="https://avatars.githubusercontent.com/u/181604248?s=400&u=88a726ffaab91d761b32cb516b31b18dad0c521c&v=4" alt="Image of Andrew Cai" width="350" height="350" style="border:3px solid brown;vertical-align:middle;display:block;float:none;left:0;right:0;margin:auto">
 
-This webpage was created at San Francisco State University in West Grove Commons. Also, this webpage was created on the afternoon of September 14th, 2024.
-I created this webpage to create "a site or blog from" my "GitHub repositories with GitHub Pages". I created this webpage by using the webpage at the URL, "[https://skills.github.com](https://github.com/skills/github-pages)".
+<p style="margin-bottom:2em;white-space:pre"> </p>
+
+This webpage was created at San Francisco State University in West Grove Commons.
+
+Also, this webpage was created on the afternoon of September 14th, 2024.
+
+I created this webpage to create "a site or blog from" my "GitHub repositories with GitHub Pages".
+
+I created this webpage by using the webpage at the URL, "[https://github.com/skills/github-pages](https://github.com/skills/github-pages)".
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d25245.826935445275!2d-122.48187641691896!3d37.72605332589471!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sus!4v1726654775120!5m2!1sen!2sus" width="600" height="450" style="border:3px solid brown;vertical-align:middle;display:block;float:none;left:0;right:0;margin:auto" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+Current Task List:
+- [ ] Earn a Bachelor's Degree in Computer Science from San Francisco State University in the Spring 2028 semester
+- [ ] Earn a useful job that uses a moderate amount of ideas from computer science overall
+- [ ] Retire successfully
+
+<p style="margin-bottom:2em;white-space:pre"> </p>
 
 <hr>
 
 Andrew Cai's version of a Snake game program:
 
-<canvas id="canvas" width="500" height="500"></canvas>
+<p style="margin-bottom:2em;white-space:pre"> </p>
+
+<canvas id="canvas" width="500" height="500" style="border:3px solid brown;vertical-align:middle;display:block;float:none;left:0;right:0;margin:auto"></canvas>
 <script src="https://code.jquery.com/jquery-2.1.0.js"></script>
 <script>
       //	Set	up	canvas
@@ -209,6 +229,8 @@ Andrew Cai's version of a Snake game program:
       });  
 </script>
 
+<p style="margin-bottom:2em;white-space:pre"> </p>
+
 On the evening of September 14th, 2024, at San Francisco State University in West Grove Commons, I wanted to try to evaluate GitHub Pages, so I created the version of a Snake game program directly above this paragraph. The version of a Snake game program directly above this paragraph is from the first three pages in the "Putting It All Together" section of Chapter 17 in Part III of the book, _JavaScript for Kids: A Playful Introduction to Programming_.
 
 The author of the book is Nick Morgan. Additionally, the illustrator of the book is Miran Lipovača. In addition, the technical reviewer of this book is Angus Croll.
@@ -224,15 +246,10 @@ JavaScript Code Sample:
 console.log("Hello, world!");
 ```
 
+<p style="margin-bottom:2em;white-space:pre"> </p>
+
 <hr>
 
-Current Task List:
-- [ ] Earn a Bachelor's Degree in Computer Science from San Francisco State University in the Spring 2028 semester
-- [ ] Earn a useful job that uses a moderate amount of ideas from computer science overall
-- [ ] Retire successfully
+<p style="margin-bottom:2em;white-space:pre"> </p>
 
-<iframe src="https://www.youtube.com/embed/3KtWfp0UopM" width="350" height="350" title="YouTube video titled 'Google — 25 Years in Search: The Most Searched'"></iframe>
-
-Map Test:
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d25245.826935445275!2d-122.48187641691896!3d37.72605332589471!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sus!4v1726654775120!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.youtube.com/embed/3KtWfp0UopM" width="350" height="350" title="YouTube video titled 'Google — 25 Years in Search: The Most Searched'" style="border:3px solid brown;vertical-align:middle;display:block;float:none;left:0;right:0;margin:auto"></iframe>
