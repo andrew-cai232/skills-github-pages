@@ -10,12 +10,10 @@ title: Welcome to Andrew Cai's GitHub Blog!
 
 <p style="margin-bottom:2em;white-space:pre"> </p>
 
-Current Task List:
-- [ ] Earn a Bachelor's Degree in Computer Science from San Francisco State University in the Spring 2028 semester
-<p style="margin-bottom:1em;white-space:pre"> </p>
-- [ ] Earn a useful job that utilizes my understanding of computer science
-<p style="margin-bottom:1em;white-space:pre"> </p>
-- [ ] Retire comfortably :older_man:
+Current Goals:
+- Earn a Bachelor's Degree in Computer Science from San Francisco State University in the Spring 2028 semester
+- Earn a useful job that utilizes my understanding of computer science
+- Retire comfortably 👴
 
 <p style="margin-bottom:2em;white-space:pre"> </p>
 
@@ -23,7 +21,9 @@ Current Task List:
 
 <p style="margin-bottom:2em;white-space:pre"> </p>
 
-:man_student: On the afternoon of September 14th, 2024, this webpage was created at San Francisco State University in West Grove Commons by using the webpage at the URL, "[https://github.com/skills/github-pages](https://github.com/skills/github-pages)".
+<p style="vertical-align:middle;display:block;float:none;left:0;right:0;margin:auto">
+      👨‍🎓 On the afternoon of September 14th, 2024, this webpage was created at San Francisco State University in West Grove Commons by using the webpage at the URL, "<a href="https://github.com/skills/github-pages">https://github.com/skills/github-pages</a>".
+</p>
 
 <p style="margin-bottom:2em;white-space:pre"> </p>
 
@@ -31,7 +31,7 @@ Current Task List:
 
 <p style="margin-bottom:1em;white-space:pre"> </p>
 
-<p style="vertical-align:middle;display:block;float:none;left:0;right:0;margin:auto">Andrew Cai's Snake Game Program:</p>
+<h6 style="vertical-align:middle;display:block;float:none;left:0;right:0;margin:auto">Andrew Cai's Snake Game Program:</h6>
 
 <p style="margin-bottom:2em;white-space:pre"> </p>
 
@@ -264,26 +264,30 @@ Current Task List:
       <br>
       
       <p>
-      Also, the proofreader of this book is Paula L. Fleming. Additionally, No Starch Press published this book. In addition, the publication date of this book is December 14, 2014.
+      🧑‍💼 Also, the proofreader of this book is Paula L. Fleming. Additionally, No Starch Press published this book. In addition, the publication date of this book is December 14, 2014.
       </p>
       
       <br>
       
-<p>To control the snake's movement, press the W, A, S, and D keys on a computer keyboard:</p>
-<br>
-<ul>
-      <li>The W key: Moves the snake upward</li>
-      <li>The A key: Moves the snake to the left</li>
-      <li>The S key: Moves the snake downward</li>
-      <li>The D key: Moves the snake to the right</li>
-</ul>
-
-<p style="margin-bottom:1em;white-space:pre"> </p>
-
-JavaScript Code Sample:
-``` javascript
-console.log("Hello, world!");
-```
+      <p>To control the snake's movement, press the W, A, S, and D keys on a computer keyboard:</p>
+      <ul>
+            <li>The "W" key: Moves the snake upward</li>
+            <li>The "A" key: Moves the snake to the left</li>
+            <li>The "S" key: Moves the snake downward</li>
+            <li>The "D" key: Moves the snake to the right</li>
+      </ul>
+      
+      <br>
+      
+      <p>To restart the game, please reload the webpage.</p>
+      <p style="margin-bottom:1em;white-space:pre"> </p>
+      
+      JavaScript Code Sample:
+      <pre>
+            <code>
+                  console.log("Hello, world!");
+            </code>
+      </pre>
 
 </details>
 
@@ -293,8 +297,77 @@ console.log("Hello, world!");
 
 <p style="margin-bottom:2em;white-space:pre"> </p>
 
+<h6 style="vertical-align:middle;display:block;float:none;left:0;right:0;margin:auto">🧑‍💻 "Google — 25 Years in Search: The Most Searched"</h6>
+
+<p style="margin-bottom:1em;white-space:pre"> </p>
+
 <iframe src="https://www.youtube.com/embed/3KtWfp0UopM" width="350" height="350" title="YouTube video titled 'Google — 25 Years in Search: The Most Searched'" style="border:3px solid brown;vertical-align:middle;display:block;float:none;left:0;right:0;margin:auto"></iframe>
 
+<p style="margin-bottom:1em;white-space:pre"> </p>
+
+<details>
+
+      <summary>🧑‍💻 Details of the video shown above</summary>
+      
+      <p style="margin-bottom:1em;white-space:pre"> </p>
+      
+      <p>
+            The video was published on Dec 11, 2023.
+            "Google is celebrating the most searched figures and moments in 25 years of Google Search. From BTS to Taylor Swift, see the moments that have changed the world and inspired the next generation to come. Explore more at <a href="https://trends.google.com/trends/yis/2023/GLOBAL/">https://trends.google.com/trends/yis/2023/GLOBAL/</a>
+            
+            #YearinSearch 
+            
+            Audio described version here: <a href="https://www.youtube.com/watch?v=3KtWfp0UopM">https://www.youtube.com/watch?v=3KtWfp0UopM</a> 
+            
+            Music by:
+            U2 'I Still Haven’t Found What I’m Looking For'
+            Beyoncé 'Crazy in Love'
+            Taylor Swift 'Wildest Dreams (Taylor's Version)'
+            Tina Turner 'The Best'
+            Composers: Marcel Neumann, Simon Heeger, Christian Vorländer, Hermann Schepetkov
+            Additional Vocals: United Voices Chicago, Hugh O‘Neil
+            Music Producer: Lukas Lehmann
+            Executive Music Producer: Simon Heeger
+            Music production company: 2WEI Music
+            Sfx & Mix: Marcel Neumann"
+            
+            🧑‍🎨
+            
+            "Footage courtesy of:
+            Major League Baseball footage used with permission of Major League Baseball. All rights reserved.
+            SPIDER-MAN: INTO THE SPIDER-VERSE © 2018 Sony Pictures Animation Inc. All Rights Reserved. Courtesy of Sony Pictures Animation
+            MARVEL and all related character names: © & TM 2023 MARVEL
+            'BARBIE®' and associated trademarks and trade dress are owned by and used with permission of Mattel, Inc. © 2023 Mattel, Inc. All Rights Reserved.
+            Footage provided by Veritone
+            Getty Images
+            BBC Motion Gallery/Getty Images 
+            NASA
+            Max Headroom CREATED BY ROCKY MORTON, ANNABEL JANKEL AND GEORGE STONE 
+            Scripps National Spelling Bee, all rights reserved
+            The White Helmets
+            Associated Press
+            KGO-TV/ABC7
+            The Footage Company
+            © 2023 Viacom Media Networks, a division of Viacom International Inc. All Rights Reserved
+            © Henri Calderon for Colossal
+            French Tennis Federation
+            USTA
+            CBS News      "🧑‍💼"
+            NCAA
+            Thanks to © Red Bull Media House
+            Dick Clark Productions
+            Courtesy to FIFA
+            Footage provided by IMG Archive
+            The Pokémon Company International
+            TB12 Sports 
+            Disney+ 
+            Gracie Films 
+            Warner Brothers"
+      </p>
+</details>
+
 <p style="margin-bottom:2em;white-space:pre"> </p>
-👨‍💼
+
+<hr>
+
 <p style="margin-bottom:2em;white-space:pre"> </p>
