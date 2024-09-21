@@ -21,7 +21,7 @@ Current Goals:
 
 <p style="margin-bottom:2em;white-space:pre"> </p>
 
-<p style="vertical-align:middle;display:block;float:none;left:0;right:0;margin:auto;width:50%">
+<p style="vertical-align:middle;display:block;float:none;left:0;right:0;margin:auto;width:75%">
       👨‍🎓 On the afternoon of September 14th, 2024, this webpage was created at San Francisco State University in West Grove Commons by using the webpage at the URL, "<a href="https://github.com/skills/github-pages">https://github.com/skills/github-pages</a>".
 </p>
 
@@ -52,6 +52,8 @@ Current Goals:
       var score = 0;
       //	Draw	the	border
       var drawBorder = function() {
+        ctx.fillStyle = "aquamarine";
+        ctx.fillRect(0, 0, width, height);
         ctx.fillStyle = "Gray";
         ctx.fillRect(0, 0, width, blockSize);
         ctx.fillRect(0, height - blockSize, width, blockSize);
@@ -297,7 +299,7 @@ Current Goals:
 
 <p style="margin-bottom:2em;white-space:pre"> </p>
 
-<h3 style="vertical-align:middle;display:block;float:none;left:0;right:0;margin:auto;width:50%">🧑‍💻 "Google — 25 Years in Search: The Most Searched"</h3>
+<h3 style="vertical-align:middle;display:block;float:none;left:0;right:0;margin:auto;width:75%">🧑‍💻 "Google — 25 Years in Search: The Most Searched"</h3>
 
 <p style="margin-bottom:1em;white-space:pre"> </p>
 
