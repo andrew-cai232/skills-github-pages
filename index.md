@@ -295,7 +295,7 @@ Current Goals:
 
 <p style="margin-bottom:2em;white-space:pre"> </p> 
 
-<hr>
+<hr style="border:12px solid green;border-radius:5px;border-style:groove">
 
 <p style="margin-bottom:2em;white-space:pre"> </p>
 
@@ -370,6 +370,6 @@ Current Goals:
 
 <p style="margin-bottom:2em;white-space:pre"> </p>
 
-<hr>
+<hr style="border:12px solid green;border-radius:5px;border-style:groove">
 
 <p style="margin-bottom:2em;white-space:pre"> </p>
