@@ -235,7 +235,7 @@ Current Goals:
 
 <p style="margin-bottom:2em;white-space:pre"> </p>
 
-<details>
+<details style="border:3px solid green;border-radius:5px;border-style:groove">
 
       <summary>🧑‍💻 Details of the program shown above</summary>
       
@@ -285,17 +285,12 @@ Current Goals:
       <p style="margin-bottom:1em;white-space:pre"> </p>
       
       JavaScript Code Sample:
-      <pre>
-            <code>
-                  console.log("Hello, world!");
-            </code>
-      </pre>
-
+      <pre><code>console.log("Hello, world!");</code></pre>
 </details>
 
 <p style="margin-bottom:2em;white-space:pre"> </p> 
 
-<hr style="border:12px solid green;border-radius:5px;border-style:groove">
+<hr style="border:3px solid green;border-radius:5px;border-style:groove">
 
 <p style="margin-bottom:2em;white-space:pre"> </p>
 
@@ -307,69 +302,69 @@ Current Goals:
 
 <p style="margin-bottom:1em;white-space:pre"> </p>
 
-<details>
+<details style="border:3px solid green;border-radius:5px;border-style:groove">
 
       <summary>🧑‍💻 Details of the video shown above</summary>
       
       <p style="margin-bottom:1em;white-space:pre"> </p>
       
       <p>
-            The video was published on Dec 11, 2023.
-            "Google is celebrating the most searched figures and moments in 25 years of Google Search. From BTS to Taylor Swift, see the moments that have changed the world and inspired the next generation to come. Explore more at <a href="https://trends.google.com/trends/yis/2023/GLOBAL/">https://trends.google.com/trends/yis/2023/GLOBAL/</a>
+            The video was published on Dec 11, 2023. <br>
+            "Google is celebrating the most searched figures and moments in 25 years of Google Search. From BTS to Taylor Swift, see the moments that have changed the world and inspired the next generation to come. Explore more at <a href="https://trends.google.com/trends/yis/2023/GLOBAL/">https://trends.google.com/trends/yis/2023/GLOBAL/</a> <br>
             
-            #YearinSearch 
+            #YearinSearch <br>
             
-            Audio described version here: <a href="https://www.youtube.com/watch?v=3KtWfp0UopM">https://www.youtube.com/watch?v=3KtWfp0UopM</a> 
+            Audio described version here: <a href="https://www.youtube.com/watch?v=3KtWfp0UopM">https://www.youtube.com/watch?v=3KtWfp0UopM</a> <br>
             
-            Music by:
-            U2 'I Still Haven’t Found What I’m Looking For'
-            Beyoncé 'Crazy in Love'
-            Taylor Swift 'Wildest Dreams (Taylor's Version)'
-            Tina Turner 'The Best'
-            Composers: Marcel Neumann, Simon Heeger, Christian Vorländer, Hermann Schepetkov
-            Additional Vocals: United Voices Chicago, Hugh O‘Neil
-            Music Producer: Lukas Lehmann
-            Executive Music Producer: Simon Heeger
-            Music production company: 2WEI Music
-            Sfx & Mix: Marcel Neumann"
+            Music by: <br>
+            U2 'I Still Haven’t Found What I’m Looking For' <br>
+            Beyoncé 'Crazy in Love' <br>
+            Taylor Swift 'Wildest Dreams (Taylor's Version)' <br>
+            Tina Turner 'The Best' <br>
+            Composers: Marcel Neumann, Simon Heeger, Christian Vorländer, Hermann Schepetkov <br>
+            Additional Vocals: United Voices Chicago, Hugh O‘Neil <br>
+            Music Producer: Lukas Lehmann <br>
+            Executive Music Producer: Simon Heeger <br>
+            Music production company: 2WEI Music <br>
+            Sfx & Mix: Marcel Neumann" <br>
             
-            🧑‍🎨
+            🧑‍🎨 <br>
             
-            "Footage courtesy of:
-            Major League Baseball footage used with permission of Major League Baseball. All rights reserved.
-            SPIDER-MAN: INTO THE SPIDER-VERSE © 2018 Sony Pictures Animation Inc. All Rights Reserved. Courtesy of Sony Pictures Animation
-            MARVEL and all related character names: © & TM 2023 MARVEL
-            'BARBIE®' and associated trademarks and trade dress are owned by and used with permission of Mattel, Inc. © 2023 Mattel, Inc. All Rights Reserved.
-            Footage provided by Veritone
-            Getty Images
-            BBC Motion Gallery/Getty Images 
-            NASA
-            Max Headroom CREATED BY ROCKY MORTON, ANNABEL JANKEL AND GEORGE STONE 
-            Scripps National Spelling Bee, all rights reserved
-            The White Helmets
-            Associated Press
-            KGO-TV/ABC7
-            The Footage Company
-            © 2023 Viacom Media Networks, a division of Viacom International Inc. All Rights Reserved
-            © Henri Calderon for Colossal
-            French Tennis Federation
-            USTA
-            CBS News      "🧑‍💼"
-            NCAA
-            Thanks to © Red Bull Media House
-            Dick Clark Productions
-            Courtesy to FIFA
-            Footage provided by IMG Archive
-            The Pokémon Company International
-            TB12 Sports 
-            Disney+ 
-            Gracie Films 
-            Warner Brothers"
+            "Footage courtesy of: <br>
+            Major League Baseball footage used with permission of Major League Baseball. All rights reserved. <br>
+            SPIDER-MAN: INTO THE SPIDER-VERSE © 2018 Sony Pictures Animation Inc. All Rights Reserved. Courtesy of Sony Pictures Animation <br>
+            MARVEL and all related character names: © & TM 2023 MARVEL <br>
+            'BARBIE®' and associated trademarks and trade dress are owned by and used with permission of Mattel, Inc. © 2023 Mattel, Inc. All Rights Reserved. <br>
+            Footage provided by Veritone <br>
+            Getty Images <br>
+            BBC Motion Gallery/Getty Images <br>
+            NASA <br>
+            Max Headroom CREATED BY ROCKY MORTON, ANNABEL JANKEL AND GEORGE STONE <br>
+            Scripps National Spelling Bee, all rights reserved <br>
+            The White Helmets <br>
+            Associated Press <br>
+            KGO-TV/ABC7 <br>
+            The Footage Company <br>
+            © 2023 Viacom Media Networks, a division of Viacom International Inc. All Rights Reserved <br>
+            © Henri Calderon for Colossal <br>
+            French Tennis Federation <br>
+            USTA <br>
+            CBS News      "🧑‍💼" <br>
+            NCAA <br>
+            Thanks to © Red Bull Media House <br>
+            Dick Clark Productions <br>
+            Courtesy to FIFA <br>
+            Footage provided by IMG Archive <br>
+            The Pokémon Company International <br>
+            TB12 Sports <br>
+            Disney+ <br>
+            Gracie Films <br>
+            Warner Brothers" <br>
       </p>
 </details>
 
 <p style="margin-bottom:2em;white-space:pre"> </p>
 
-<hr style="border:12px solid green;border-radius:5px;border-style:groove">
+<hr style="border:3px solid green;border-radius:5px;border-style:groove">
 
 <p style="margin-bottom:2em;white-space:pre"> </p>
