@@ -237,42 +237,42 @@ Current Goals:
 
 <details style="border:3px solid green;border-radius:5px;border-style:groove">
 
-      <summary>🧑‍💻 Details of the program shown above</summary>
+      <summary style="width:600px;vertical-align:middle;display:block;float:none;left:0;right:0;margin:auto">🧑‍💻 Details of the program shown above</summary>
       
       <p style="margin-bottom:1em;white-space:pre"> </p>
       
-      <p>
+      <p style="width:600px;vertical-align:middle;display:block;float:none;left:0;right:0;margin:auto">
             On the evening of September 14th, 2024, at San Francisco State University in West Grove Commons, I wanted to try to evaluate GitHub Pages, so I created the version of a Snake game program directly above this paragraph. The version of a Snake game program directly above this paragraph is from the first three pages in the "Putting It All Together" section of Chapter 17 in Part III of the book, <i>JavaScript for Kids: A Playful Introduction to Programming</i>.
       </p>
       
       <br>
       
-      <p>
+      <p style="width:600px;vertical-align:middle;display:block;float:none;left:0;right:0;margin:auto">
       The author of the book is Nick Morgan. Additionally, the illustrator of the book is Miran Lipovača. In addition, the technical reviewer of this book is Angus Croll.
       </p>
       
       <br>
       
-      <p>
+      <p style="width:600px;vertical-align:middle;display:block;float:none;left:0;right:0;margin:auto">
       Also, William Pollock is the publisher of this book. Additionally, the production editor of this book is Riley Hoffman. In addition, the developmental editors of this book are William Pollock and Seph Kramer.
       </p>
       
       <br>
       
-      <p>
+      <p style="width:600px;vertical-align:middle;display:block;float:none;left:0;right:0;margin:auto">
       Also, the copyeditor of this book is Rachel Monaghan. Additionally, Tina Salameh created the cover illustration of this book. In addition, the compositor of this book is Riley Hoffman.
       </p>
       
       <br>
       
-      <p>
+      <p style="width:600px;vertical-align:middle;display:block;float:none;left:0;right:0;margin:auto">
       🧑‍💼 Also, the proofreader of this book is Paula L. Fleming. Additionally, No Starch Press published this book. In addition, the publication date of this book is December 14, 2014.
       </p>
       
       <br>
       
-      <p>To control the snake's movement, press the W, A, S, and D keys on a computer keyboard:</p>
-      <ul>
+      <p style="width:600px;vertical-align:middle;display:block;float:none;left:0;right:0;margin:auto">To control the snake's movement, press the W, A, S, and D keys on a computer keyboard:</p>
+      <ul style="width:600px;vertical-align:middle;display:block;float:none;left:0;right:0;margin:auto">
             <li>The "W" key: Moves the snake upward</li>
             <li>The "A" key: Moves the snake to the left</li>
             <li>The "S" key: Moves the snake downward</li>
@@ -281,11 +281,11 @@ Current Goals:
       
       <br>
       
-      <p>To restart the game, please reload the webpage.</p>
+      <p style="width:600px;vertical-align:middle;display:block;float:none;left:0;right:0;margin:auto">To restart the game, please reload the webpage.</p>
       <p style="margin-bottom:1em;white-space:pre"> </p>
       
-      JavaScript Code Sample:
-      <pre><code>console.log("Hello, world!");</code></pre>
+      <p style="width:600px;vertical-align:middle;display:block;float:none;left:0;right:0;margin:auto">JavaScript Code Sample:</p>
+      <pre><code style="width:600px;vertical-align:middle;display:block;float:none;left:0;right:0;margin:auto">console.log("Hello, world!");</code></pre>
 </details>
 
 <p style="margin-bottom:2em;white-space:pre"> </p> 
@@ -304,11 +304,11 @@ Current Goals:
 
 <details style="border:3px solid green;border-radius:5px;border-style:groove">
 
-      <summary>🧑‍💻 Details of the video shown above</summary>
+      <summary style="width:600px;vertical-align:middle;display:block;float:none;left:0;right:0;margin:auto">🧑‍💻 Details of the video shown above</summary>
       
       <p style="margin-bottom:1em;white-space:pre"> </p>
       
-      <p>
+      <p style="width:600px;vertical-align:middle;display:block;float:none;left:0;right:0;margin:auto">
             The video was published on Dec 11, 2023. <br>
             "Google is celebrating the most searched figures and moments in 25 years of Google Search. From BTS to Taylor Swift, see the moments that have changed the world and inspired the next generation to come. Explore more at <a href="https://trends.google.com/trends/yis/2023/GLOBAL/">https://trends.google.com/trends/yis/2023/GLOBAL/</a> <br>
             
@@ -359,7 +359,7 @@ Current Goals:
             TB12 Sports <br>
             Disney+ <br>
             Gracie Films <br>
-            Warner Brothers" <br>
+            Warner Brothers" 🧑‍🎨 <br>
       </p>
 </details>
 
