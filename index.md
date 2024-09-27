@@ -235,14 +235,12 @@ Current Goals:
 
 <p style="margin-bottom:2em;white-space:pre"> </p>
 
-<details style="border:3px solid green;border-radius:5px;border-style:groove">
+<details style="border:3px solid green;border-radius:5px;border-style:groove;background-color:aquamarine">
 
       <summary style="width:600px;vertical-align:middle;display:block;float:none;left:0;right:0;margin:auto">
-      <p style="margin-bottom:1em;white-space:pre"> 
-       </p>
+      <p style="margin-bottom:1em;white-space:pre"> </p>
       🧑‍💻 Details of the program shown above
-      <p style="margin-bottom:1em;white-space:pre"> 
-       </p>
+      <p style="margin-bottom:1em;white-space:pre"> </p>
       </summary>
       
       <p style="margin-bottom:1em;white-space:pre"> </p>
@@ -308,14 +306,12 @@ Current Goals:
 
 <p style="margin-bottom:1em;white-space:pre"> </p>
 
-<details style="border:3px solid green;border-radius:5px;border-style:groove">
+<details style="border:3px solid green;border-radius:5px;border-style:groove;background-color:aquamarine">
 
       <summary style="width:600px;vertical-align:middle;display:block;float:none;left:0;right:0;margin:auto">
-      <p style="margin-bottom:1em;white-space:pre"> 
-       </p>
+      <p style="margin-bottom:1em;white-space:pre"> </p>
       🧑‍💻 Details of the video shown above
-      <p style="margin-bottom:1em;white-space:pre"> 
-       </p>
+      <p style="margin-bottom:1em;white-space:pre"> </p>
       </summary>
       
       <p style="margin-bottom:1em;white-space:pre"> </p>
@@ -373,6 +369,7 @@ Current Goals:
             Gracie Films <br>
             Warner Brothers" 🧑‍🎨 <br>
       </p>
+      <p style="margin-bottom:1em;white-space:pre"> </p>
 </details>
 
 <p style="margin-bottom:2em;white-space:pre"> </p>
