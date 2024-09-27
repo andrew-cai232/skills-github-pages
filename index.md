@@ -237,13 +237,13 @@ Current Goals:
 
 <details style="border:3px solid green;border-radius:5px;border-style:groove">
 
-      <pre><summary style="width:600px;vertical-align:middle;display:block;float:none;left:0;right:0;margin:auto">
+      <summary style="width:600px;vertical-align:middle;display:block;float:none;left:0;right:0;margin:auto">
       <p style="margin-bottom:1em;white-space:pre"> 
        </p>
       🧑‍💻 Details of the program shown above
       <p style="margin-bottom:1em;white-space:pre"> 
        </p>
-      </summary></pre>
+      </summary>
       
       <p style="margin-bottom:1em;white-space:pre"> </p>
       
@@ -310,13 +310,13 @@ Current Goals:
 
 <details style="border:3px solid green;border-radius:5px;border-style:groove">
 
-      <pre><summary style="width:600px;vertical-align:middle;display:block;float:none;left:0;right:0;margin:auto">
+      <summary style="width:600px;vertical-align:middle;display:block;float:none;left:0;right:0;margin:auto">
       <p style="margin-bottom:1em;white-space:pre"> 
        </p>
       🧑‍💻 Details of the video shown above
       <p style="margin-bottom:1em;white-space:pre"> 
        </p>
-      </summary></pre>
+      </summary>
       
       <p style="margin-bottom:1em;white-space:pre"> </p>
       
