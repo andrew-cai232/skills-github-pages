@@ -32,7 +32,7 @@ title: Welcome to Andrew Cai's GitHub Website!
 <p style="margin-bottom:1em;white-space:pre"> </p>
 
 <details>
-      <summary>
+      <summary style="width:600px;vertical-align:middle;display:block;float:none;left:0;right:0;margin:auto">
             <p style="margin-bottom:1em;white-space:pre"> </p>
             Game about a Snake
             <p style="margin-bottom:1em;white-space:pre"> </p>
@@ -308,9 +308,9 @@ title: Welcome to Andrew Cai's GitHub Website!
 <p style="margin-bottom:2em;white-space:pre"> </p>
 
 <details>
-      <summary>
+      <summary style="width:600px;vertical-align:middle;display:block;float:none;left:0;right:0;margin:auto">
             <p style="margin-bottom:1em;white-space:pre"> </p>
-            Video about Google
+            Video about Google 🧑‍💻
             <p style="margin-bottom:1em;white-space:pre"> </p>
       </summary>
       
@@ -325,9 +325,9 @@ title: Welcome to Andrew Cai's GitHub Website!
       <details style="border:3px solid green;border-radius:5px;border-style:groove;background-color:aquamarine">
       
             <summary style="width:600px;vertical-align:middle;display:block;float:none;left:0;right:0;margin:auto">
-            <p style="margin-bottom:1em;white-space:pre"> </p>
-            🧑‍💻 Details of the video shown above
-            <p style="margin-bottom:1em;white-space:pre"> </p>
+                  <p style="margin-bottom:1em;white-space:pre"> </p>
+                  🧑‍💻 Details of the video shown above
+                  <p style="margin-bottom:1em;white-space:pre"> </p>
             </summary>
             
             <p style="margin-bottom:1em;white-space:pre"> </p>
