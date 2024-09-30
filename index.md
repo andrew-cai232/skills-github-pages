@@ -31,7 +31,7 @@ title: Welcome to Andrew Cai's GitHub Website!
 
 <p style="margin-bottom:1em;white-space:pre"> </p>
 
-<details style="border:3px solid blue;border-radius:5px;border-style:groove;background-color:lightblue">
+<details style="border:3px solid azure;border-radius:5px;border-style:groove;background-color:lightblue">
       <summary style="width:600px;vertical-align:middle;display:block;float:none;left:0;right:0;margin:auto">
             <p style="margin-bottom:1em;white-space:pre"> </p>
             Game about a Snake
@@ -309,7 +309,7 @@ title: Welcome to Andrew Cai's GitHub Website!
 
 <p style="margin-bottom:2em;white-space:pre"> </p>
 
-<details style="border:3px solid blue;border-radius:5px;border-style:groove;background-color:lightblue">
+<details style="border:3px solid azure;border-radius:5px;border-style:groove;background-color:lightblue">
       <summary style="width:600px;vertical-align:middle;display:block;float:none;left:0;right:0;margin:auto">
             <p style="margin-bottom:1em;white-space:pre"> </p>
             Video about Google 🧑‍💻
