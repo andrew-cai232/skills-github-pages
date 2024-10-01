@@ -6,7 +6,7 @@ title: Welcome to Andrew Cai's GitHub Website!
 
 <!-- Reminder for editing this webpage: please make my webpages read-only to prevent hacker attacks, because the user is likely to already have access to good social media platforms, and for this webpage, I do not want to use more third-party online platforms so far -->
 
-<img src="https://avatars.githubusercontent.com/u/181604248?s=400&u=88a726ffaab91d761b32cb516b31b18dad0c521c&v=4" alt="Image of Andrew Cai" width="350" height="350" style="border:3px solid brown;vertical-align:middle;display:block;float:none;left:0;right:0;margin:auto">
+<img src="https://avatars.githubusercontent.com/u/181604248?s=400&u=88a726ffaab91d761b32cb516b31b18dad0c521c&v=4" alt="Image of Andrew Cai" width="350" height="350" style="border:6px solid brown;vertical-align:middle;display:block;float:none;left:0;right:0;margin:auto">
 
 <p style="margin-bottom:2em;white-space:pre"> </p>
 
@@ -17,7 +17,7 @@ title: Welcome to Andrew Cai's GitHub Website!
 
 <p style="margin-bottom:2em;white-space:pre"> </p>
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d12622.913523266852!2d-122.481876!3d37.72605300000001!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sus!4v1727420687329!5m2!1sen!2sus" width="600" height="450" style="border:3px solid brown;vertical-align:middle;display:block;float:none;left:0;right:0;margin:auto" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d12622.913523266852!2d-122.481876!3d37.72605300000001!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sus!4v1727420687329!5m2!1sen!2sus" width="600" height="450" style="border:6px solid brown;vertical-align:middle;display:block;float:none;left:0;right:0;margin:auto" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 <p style="margin-bottom:2em;white-space:pre"> </p>
 
@@ -31,7 +31,7 @@ title: Welcome to Andrew Cai's GitHub Website!
 
 <p style="margin-bottom:1em;white-space:pre"> </p>
 
-<details style="border:3px solid azure;border-radius:5px;border-style:groove;background-color:lightblue">
+<details style="border:6px solid azure;border-radius:5px;border-style:groove;background-color:lightblue">
       <summary style="width:600px;vertical-align:middle;display:block;float:none;left:0;right:0;margin:auto">
             <p style="margin-bottom:1em;white-space:pre"> </p>
             Game about a Snake
@@ -309,7 +309,7 @@ title: Welcome to Andrew Cai's GitHub Website!
 
 <p style="margin-bottom:2em;white-space:pre"> </p>
 
-<details style="border:3px solid azure;border-radius:5px;border-style:groove;background-color:lightblue">
+<details style="border:6px solid azure;border-radius:5px;border-style:groove;background-color:lightblue">
       <summary style="width:600px;vertical-align:middle;display:block;float:none;left:0;right:0;margin:auto">
             <p style="margin-bottom:1em;white-space:pre"> </p>
             Video about Google 🧑‍💻
@@ -320,7 +320,7 @@ title: Welcome to Andrew Cai's GitHub Website!
       
       <p style="margin-bottom:1em;white-space:pre"> </p>
       
-      <iframe src="https://www.youtube.com/embed/3KtWfp0UopM" width="350" height="350" title="YouTube video titled 'Google — 25 Years in Search: The Most Searched'" style="border:3px solid brown;vertical-align:middle;display:block;float:none;left:0;right:0;margin:auto"></iframe>
+      <iframe src="https://www.youtube.com/embed/3KtWfp0UopM" width="350" height="350" title="YouTube video titled 'Google — 25 Years in Search: The Most Searched'" style="border:6px solid brown;vertical-align:middle;display:block;float:none;left:0;right:0;margin:auto"></iframe>
       
       <p style="margin-bottom:1em;white-space:pre"> </p>
       
